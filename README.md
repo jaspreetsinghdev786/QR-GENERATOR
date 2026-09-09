@@ -1,17 +1,7 @@
-# QR Generator
+# QR Code Generator
 
-Simple static QR code generator. No build step.
+Single-file static app. Enter a URL, generate a QR code, download as PNG.
 
 ## Run
 
-Open `index.html` in a browser, or serve locally:
-
-```
-npx serve .
-```
-
-## Features
-
-- Generate QR from any text or URL
-- Choose size and foreground color
-- Download as PNG
+Open `index.html` in a browser.
